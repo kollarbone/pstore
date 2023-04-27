@@ -20,6 +20,7 @@ export default function Product_list() {
         setSelectedBrands(["women's clothing"])
       }
     }, [path]);
+   
     const handleBrandChange = (event) => {
       const brandName = event.target.value;
       const selectedBrand = categories && categories.find((brand) => brand === brandName);

@@ -11,7 +11,7 @@ export default function Header() {
   const [showCartModal, setShowCartModal] = useState(false);
     return (
     <div className='flex flex-row max-w-6xl m-auto justify-between items-center'>
-      <NavLink to="/p-store">
+      <NavLink to="/pstore">
         <SiAppstore className='text-2xl text-white'/>
       </NavLink>
       <Navigation/>

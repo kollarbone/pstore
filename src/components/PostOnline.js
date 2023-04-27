@@ -9,7 +9,7 @@ export default function PostOnline() {
         <p className="m-2 text-xl text-white">
           Register now and receive our welcome gifts
         </p>
-        <NavLink to="productList">
+        <NavLink to="/productList">
           <button className="m-2 bg-zinc-300 rounded w-fit p-2 hover:bg-zinc-400 hover:text-white hover:border">
             Shop now
           </button>

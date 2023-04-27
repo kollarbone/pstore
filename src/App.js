@@ -10,9 +10,12 @@ function App() {
       <CartProvider>
         <Routes>
           <Route path="/productList" element={<ProductList />} />
-          <Route path="/productList/*" element={<ProductList />} />
+          <Route path="/productList/electronics" element={<ProductList />} />
+          <Route path="/productList/jewelery" element={<ProductList />} />
+          <Route path="/productList/mens" element={<ProductList />} />
+          <Route path="/productList/womens" element={<ProductList />} />
           <Route path="/productList/:id" element={<Product />} />
-          <Route path="/p-store" element={<Main />} />
+          <Route path="/pstore" element={<Main />} />
         </Routes>
       </CartProvider>
     </BrowserRouter>
