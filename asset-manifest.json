@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pstore/static/css/main.9abc7a22.css",
+    "main.js": "/pstore/static/js/main.b6033c4e.js",
+    "static/media/jelewery.jpg": "/pstore/static/media/jelewery.a0c22f8be1d206995bd7.jpg",
+    "static/media/mens.jpg": "/pstore/static/media/mens.54fccd543d2d0de51325.jpg",
+    "static/media/ecommerce.png": "/pstore/static/media/ecommerce.917688b3c7f7575ff380.png",
+    "static/media/womans.png": "/pstore/static/media/womans.867750c974785f6972b1.png",
+    "static/media/caption.jpg": "/pstore/static/media/caption.acc8ee421d6f8ead0792.jpg",
+    "index.html": "/pstore/index.html",
+    "main.9abc7a22.css.map": "/pstore/static/css/main.9abc7a22.css.map",
+    "main.b6033c4e.js.map": "/pstore/static/js/main.b6033c4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9abc7a22.css",
+    "static/js/main.b6033c4e.js"
+  ]
+}
